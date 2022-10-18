@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Определение високосного года">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numOfSegment.py" afterDir="false" />
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Сумма чисел на отрезке">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leapYearDefinition.py" beforeDir="false" afterPath="$PROJECT_DIR$/leapYearDefinition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.numOfSegment">
+  <component name="RunManager" selected="Python.leapYearDefinition">
     <configuration name="ex_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leapYearDefinition" />
         <item itemvalue="Python.numOfSegment" />
         <item itemvalue="Python.ex_test" />
-        <item itemvalue="Python.leapYearDefinition" />
         <item itemvalue="Python.triangleDefinition" />
       </list>
     </recent_temporary>
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665258230882</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Сумма чисел на отрезке">
+      <created>1666000785677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666000785677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Определение типа треугольника" />
     <MESSAGE value="Определение високосного года" />
-    <option name="LAST_COMMIT_MESSAGE" value="Определение високосного года" />
+    <MESSAGE value="Сумма чисел на отрезке" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сумма чисел на отрезке" />
   </component>
 </project>
