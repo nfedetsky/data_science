@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Сумма чисел на отрезке">
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Сумма чисел на отрезке.фикс.01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leapYearDefinition.py" beforeDir="false" afterPath="$PROJECT_DIR$/leapYearDefinition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exs_arith.py" beforeDir="false" afterPath="$PROJECT_DIR$/exs_arith.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.leapYearDefinition">
+  <component name="RunManager" selected="Python.exs_arith">
     <configuration name="ex_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,6 +49,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exs_arith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data_science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exs_arith.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exs_arith" />
         <item itemvalue="Python.leapYearDefinition" />
         <item itemvalue="Python.numOfSegment" />
         <item itemvalue="Python.ex_test" />
@@ -159,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666000785677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сумма чисел на отрезке.фикс.01">
+      <created>1666124925183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666124925183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +206,7 @@
     <MESSAGE value="Определение типа треугольника" />
     <MESSAGE value="Определение високосного года" />
     <MESSAGE value="Сумма чисел на отрезке" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сумма чисел на отрезке" />
+    <MESSAGE value="Сумма чисел на отрезке.фикс.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сумма чисел на отрезке.фикс.01" />
   </component>
 </project>
