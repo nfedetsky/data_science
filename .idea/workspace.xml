@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="countSmbl">
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Выбор чисел из строки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/testStr.py" afterDir="false" />
     </list>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666391086949</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Выбор чисел из строки">
+      <created>1666734796359</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666734796359</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +269,7 @@
     <MESSAGE value="calculator 1.0" />
     <MESSAGE value="string format" />
     <MESSAGE value="countSmbl" />
-    <option name="LAST_COMMIT_MESSAGE" value="countSmbl" />
+    <MESSAGE value="Выбор чисел из строки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выбор чисел из строки" />
   </component>
 </project>
