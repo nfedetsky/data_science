@@ -21,4 +21,5 @@ str_1 = ' '
 for i in range(0, len(s)):
     str_1 = str_1 + s[i] * 2
 
+print('Всем привет!')
 print('Модификация слова: ', str_1)
