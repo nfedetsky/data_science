@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Выбор чисел из строки">
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Перемешивание букв">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testStr.py" beforeDir="false" afterPath="$PROJECT_DIR$/testStr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.testStr">
+}]]></component>
+  <component name="RunManager" selected="Python.mixLeterals">
     <configuration name="exs_arith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leapYearDefinition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mixLeterals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leapYearDefinition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mixLeterals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mixLeterals" />
         <item itemvalue="Python.testStr" />
         <item itemvalue="Python.strFormat" />
         <item itemvalue="Python.strExs" />
         <item itemvalue="Python.exs_arith" />
-        <item itemvalue="Python.leapYearDefinition" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666734796359</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Перемешивание букв">
+      <created>1666789757672</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666789757672</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +276,7 @@
     <MESSAGE value="string format" />
     <MESSAGE value="countSmbl" />
     <MESSAGE value="Выбор чисел из строки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выбор чисел из строки" />
+    <MESSAGE value="Перемешивание букв" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перемешивание букв" />
   </component>
 </project>
