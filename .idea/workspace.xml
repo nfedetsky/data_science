@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Поиск длинного слова">
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Поиск длинного словаа2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/extTest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/extTest2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,8 +43,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.mixLeterals">
-    <configuration name="exs_arith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.extTest2">
+    <configuration name="extTest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +56,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exs_arith.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extTest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.extTest2" />
         <item itemvalue="Python.mixLeterals" />
         <item itemvalue="Python.testStr" />
         <item itemvalue="Python.strFormat" />
         <item itemvalue="Python.strExs" />
-        <item itemvalue="Python.exs_arith" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666794333260</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Поиск длинного словаа2">
+      <created>1666794396981</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666794396981</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +317,7 @@
     <MESSAGE value="Перемешивание букв_1" />
     <MESSAGE value="Перемешивание букв_12" />
     <MESSAGE value="Поиск длинного слова" />
-    <option name="LAST_COMMIT_MESSAGE" value="Поиск длинного слова" />
+    <MESSAGE value="Поиск длинного словаа2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поиск длинного словаа2" />
   </component>
 </project>
