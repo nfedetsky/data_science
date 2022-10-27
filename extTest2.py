@@ -1,25 +1,44 @@
-s = input('Введите предложение: ')
+#Форматирование таблицы умножения
+#Ввод числа
+s = int(input('Введите любое целое число: '))
 
-lin = s.split()
+if s:
+    #Задаем форматирование верхней таблици
+    if s < 1:
+        print('Вы ввели число меньше 1')
+    elif s > 1:
+        print('-' * (9 * s))
+        print('||', end='')
+        for i in range(1, s + 1):
+            if s > 9:
+                print('  %d    |' % (i), end='')
+            else:
+                print('  %d   |' % (i), end='')
+        print(' ')
+        print('-' * (9 * s))
+        #Цикл расчета таблицы умножения и формирвоание таблицы, куда выводим результат расчета
+        for k in range(1, s + 1):
+            print('|', end='')
 
-max_lin = len(lin[0])
-max_ar = len(lin)
-position = 0
-for i in range(0, max_ar):
-    if len(lin[i]) > max_lin:
-        max_lin = len(lin[i])
-        position = i
+            for n in range(k, k * s + 1, k):
 
-lt_1 = lin[position]
-end_litera = lt_1[max_lin-1]
-lt_2 = lin[position + 1]
-first_litera = lt_2[0]
+                if n < 10:
+                    print('   %d    |' % (n), end='')
 
-if end_litera == first_litera:
-    print('Самое длинное слово в массиве: ', lt_1)
-    print('Следующее за самым длинным словом, слово: ', lt_2)
-    print('Первая буква следующего слова совпадает с последней буквой предыдущего слова', end_litera, '=', first_litera)
-else:
-    print('Самое длинное слово в массиве: ', lt_1)
-    print('Следующее за самым длинным словом, слово: ', lt_2)
-    print('Первая буква следующего слова НЕ совпадает с последней буквой предыдущего слова', end_litera, '!=', first_litera)
+                elif n < 100:
+                    print('   %d   |' % (n), end='')
+
+                elif n < 1000:
+                    print('  %d   |' % (n), end='')
+
+                else:
+                    print(' %d   |' % (n), end='')
+
+            print(' ')
+
+        print('_' * (9 * s))
+    else:
+        print('Введите число')
+
+
+

@@ -8,7 +8,7 @@
 n = int(input('Введите любое число меньше 100: '))
 if n:
     n = n % 100
-    print('=' * (7 * n))
+    print('=' * (10 * n))
     print('|     ||', end='')
     for i in range(1, n + 1):
         if n > 9:
@@ -16,6 +16,6 @@ if n:
         else:
             print('    %d ||' % (i), end='')
     print(' ')
-    print('=' * (7 * n))
+    print('=' * (10 * n))
 else:
     print('введите число: ')
