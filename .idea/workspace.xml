@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Форматирование таблицы умножения">
-      <change afterPath="$PROJECT_DIR$/linFunctQuadro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Линейное приближение с помощью функции наименьших квадратов">
+      <change beforePath="$PROJECT_DIR$/linFunctQuadro.py" beforeDir="false" afterPath="$PROJECT_DIR$/linFunctQuadro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666889386522</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Линейное приближение с помощью функции наименьших квадратов">
+      <created>1666994330535</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666994330535</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +379,7 @@
     <MESSAGE value="Поиск длинного словаа2" />
     <MESSAGE value="Поиск самого длинного слова" />
     <MESSAGE value="Форматирование таблицы умножения" />
-    <option name="LAST_COMMIT_MESSAGE" value="Форматирование таблицы умножения" />
+    <MESSAGE value="Линейное приближение с помощью функции наименьших квадратов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Линейное приближение с помощью функции наименьших квадратов" />
   </component>
 </project>
