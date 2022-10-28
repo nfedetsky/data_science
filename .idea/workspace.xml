@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Линейное приближение с помощью функции наименьших квадратов1">
-      <change afterPath="$PROJECT_DIR$/countEng.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extTest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/extTest2.py" afterDir="false" />
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Расчет работы инженеров">
+      <change afterPath="$PROJECT_DIR$/langArray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -343,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666994739309</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Расчет работы инженеров">
+      <created>1666998073293</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666998073293</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,6 +395,7 @@
     <MESSAGE value="Форматирование таблицы умножения" />
     <MESSAGE value="Линейное приближение с помощью функции наименьших квадратов" />
     <MESSAGE value="Линейное приближение с помощью функции наименьших квадратов1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Линейное приближение с помощью функции наименьших квадратов1" />
+    <MESSAGE value="Расчет работы инженеров" />
+    <option name="LAST_COMMIT_MESSAGE" value="Расчет работы инженеров" />
   </component>
 </project>
