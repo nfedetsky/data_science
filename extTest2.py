@@ -1,15 +1,11 @@
-from random import randint
+s = [i for i in range(1, 10)]
+s_copy = [i for i in s]
+n = len(s_copy)
+k = s[]
+l = 0
+for i in range(2):
+    s.append(l)
 
-number = [randint(1, 10) for i in range(100)]
+for i in range()
 
-max1 = min(number)
-max2 = min(number)
-
-for i in number:
-    if i > max1:
-        max2 = max1
-        max1 = i
-    elif i > max2 and i < max1:
-        max2 = i
-
-print('Max 1: ', max1, 'Max 2: ', max2)
+print(s)
