@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Анализ текстового файла">
-      <change afterPath="$PROJECT_DIR$/TT2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/da3a785a5f70a328ba8171ef3e10f79a (1).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/da3a785a5f70a328ba8171ef3e10f79a (2).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/da3a785a5f70a328ba8171ef3e10f79a.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dt.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statStud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_f.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Использование сторонних модулей">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calk_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/calk_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extTest2.py" beforeDir="false" afterPath="$PROJECT_DIR$/extTest2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -389,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668987721713</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Использование сторонних модулей">
+      <created>1670535037015</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670535037015</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +436,7 @@
     <MESSAGE value="Языки" />
     <MESSAGE value="Статистические значения" />
     <MESSAGE value="Анализ текстового файла" />
-    <option name="LAST_COMMIT_MESSAGE" value="Анализ текстового файла" />
+    <MESSAGE value="Использование сторонних модулей" />
+    <option name="LAST_COMMIT_MESSAGE" value="Использование сторонних модулей" />
   </component>
 </project>
