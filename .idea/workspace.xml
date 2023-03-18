@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Перевод римских чистел в арабские">
-      <change afterPath="$PROJECT_DIR$/statIndex.py" afterDir="false" />
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Статистические значения">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testData.py" beforeDir="false" afterPath="$PROJECT_DIR$/testData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.statIndex">
     <configuration name="exs_arith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667736173888</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Статистические значения">
+      <created>1667863217207</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667863217207</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,6 +252,7 @@
     <MESSAGE value="calculator 1.0" />
     <MESSAGE value="Сдвиг массива" />
     <MESSAGE value="Перевод римских чистел в арабские" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перевод римских чистел в арабские" />
+    <MESSAGE value="Статистические значения" />
+    <option name="LAST_COMMIT_MESSAGE" value="Статистические значения" />
   </component>
 </project>
