@@ -1,0 +1,13 @@
+1. Запрос живых лидов с группировкой по бюджету. Достаточно простой запрос, но эта информация нужна довольно часто на оперативках
+select name_client, budget from presales where life = 1 group by budget order by budget desc 
+
+2. Немного усложенный вариант - Нужно понять общие бюджеты по Заказчикам, когда у них ведется несколько пресейлов с группировкой по Заказчику, но с сортировкой по бюджету - от большего к меньшему
+select name_client, sum(budget) as Общий_бюджет_по_Заказчику from presales where life = 1 group by name_client order by Общий_бюджет_по_Заказчику desc 
+
+3. Модифицированный запрос с целью получения информации в разрезе аккаунтов. Группировка по аккаунтам. Запрос строился по таблице со старой структурой (сейчас эта таблица модифицирована под требования 3 НФ).
+
+select ka_manager, name_client, sum(budget) as Общий_бюджет_по_Заказчику from presales where life = 1 group by ka_manager order by Общий_бюджет_по_Заказчику desc
+
+4. Иногда требуется информация, сколько каждый аккаунт привел Заказчиков и с каким общим бюджетом за заданный период времени. Запрос строился по таблице со старой структурой.
+
+select data_registration as Дата, ka_manager as Аккаунт_менеджер, count(name_client) as Количество_живых_лидов, sum(budget) as Общий_бюджет from presales where data_registration > '2021-05-25' group by data_registration order by budget desc

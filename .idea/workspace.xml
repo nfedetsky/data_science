@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Статистические значения">
+=======
+    <list default="true" id="70841027-7585-457a-8da6-fc0989078ee4" name="Changes" comment="Использование сторонних модулей">
+>>>>>>> df9ab91783cf6b52b19689dba7d3c05b8f5e9df9
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,16 +25,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FoLmJIJxIo4CgHVc1DDjkbVLuE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -35,6 +48,24 @@
   </component>
   <component name="RunManager" selected="Python.statIndex">
     <configuration name="exs_arith" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Python.statStud">
+    <configuration name="TT2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> df9ab91783cf6b52b19689dba7d3c05b8f5e9df9
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exs_arith.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TT2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="statIndex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="analysTexFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/statIndex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysTexFile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strExs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calk_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strExs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calk_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strFormat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="statStud" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strFormat.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/statStud.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_f" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testData.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_f.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.statIndex" />
-        <item itemvalue="Python.testData" />
-        <item itemvalue="Python.strFormat" />
-        <item itemvalue="Python.strExs" />
-        <item itemvalue="Python.exs_arith" />
+        <item itemvalue="Python.statStud" />
+        <item itemvalue="Python.test_f" />
+        <item itemvalue="Python.TT2" />
+        <item itemvalue="Python.calk_2" />
+        <item itemvalue="Python.analysTexFile" />
       </list>
     </recent_temporary>
   </component>
@@ -207,20 +238,168 @@
       <option name="project" value="LOCAL" />
       <updated>1666210245824</updated>
     </task>
-    <task id="LOCAL-00008" summary="Сдвиг массива">
-      <created>1667657094652</created>
+    <task id="LOCAL-00008" summary="string format">
+      <created>1666214810030</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1667657094652</updated>
+      <updated>1666214810030</updated>
     </task>
-    <task id="LOCAL-00009" summary="Перевод римских чистел в арабские">
-      <created>1667736173888</created>
+    <task id="LOCAL-00009" summary="countSmbl">
+      <created>1666391068932</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1667736173888</updated>
+      <updated>1666391068932</updated>
     </task>
+    <task id="LOCAL-00010" summary="countSmbl">
+      <created>1666391086949</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666391086949</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Выбор чисел из строки">
+      <created>1666734796359</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1666734796359</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Перемешивание букв">
+      <created>1666789757672</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1666789757672</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Перемешивание букв_1">
+      <created>1666792982039</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1666792982039</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Перемешивание букв_12">
+      <created>1666793062296</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793062296</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Перемешивание букв_12">
+      <created>1666793146243</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1666793146243</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Поиск длинного слова">
+      <created>1666794333260</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666794333260</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Поиск длинного словаа2">
+      <created>1666794396981</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666794396981</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Поиск самого длинного слова">
+      <created>1666814440088</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666814440088</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Поиск самого длинного слова">
+      <created>1666814804777</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666814804777</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Форматирование таблицы умножения">
+      <created>1666888713247</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666888713247</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Форматирование таблицы умножения">
+      <created>1666888911439</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1666888911439</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Форматирование таблицы умножения">
+      <created>1666889386522</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666889386522</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Линейное приближение с помощью функции наименьших квадратов">
+      <created>1666994330535</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666994330535</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Линейное приближение с помощью функции наименьших квадратов1">
+      <created>1666994739309</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666994739309</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Расчет работы инженеров">
+      <created>1666998073293</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1666998073293</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Языки">
+      <created>1666998710821</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1666998710821</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Статистические значения">
+      <created>1668217172615</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668217172615</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Статистические значения">
+      <created>1668276248945</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668276248945</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Анализ текстового файла">
+      <created>1668987721713</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668987721713</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Использование сторонних модулей">
+      <created>1670535037015</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1670535037015</updated>
+    </task>
+<<<<<<< HEAD
     <task id="LOCAL-00010" summary="Статистические значения">
       <created>1667863217207</created>
       <option name="number" value="00010" />
@@ -229,6 +408,9 @@
       <updated>1667863217207</updated>
     </task>
     <option name="localTasksCounter" value="11" />
+=======
+    <option name="localTasksCounter" value="31" />
+>>>>>>> df9ab91783cf6b52b19689dba7d3c05b8f5e9df9
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,13 +418,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Определение типа треугольника" />
     <MESSAGE value="Определение високосного года" />
     <MESSAGE value="Сумма чисел на отрезке" />
@@ -250,9 +445,30 @@
     <MESSAGE value="Расчет площади стен.фикс.01" />
     <MESSAGE value="rle сжатие" />
     <MESSAGE value="calculator 1.0" />
+<<<<<<< HEAD
     <MESSAGE value="Сдвиг массива" />
     <MESSAGE value="Перевод римских чистел в арабские" />
     <MESSAGE value="Статистические значения" />
     <option name="LAST_COMMIT_MESSAGE" value="Статистические значения" />
+=======
+    <MESSAGE value="string format" />
+    <MESSAGE value="countSmbl" />
+    <MESSAGE value="Выбор чисел из строки" />
+    <MESSAGE value="Перемешивание букв" />
+    <MESSAGE value="Перемешивание букв_1" />
+    <MESSAGE value="Перемешивание букв_12" />
+    <MESSAGE value="Поиск длинного слова" />
+    <MESSAGE value="Поиск длинного словаа2" />
+    <MESSAGE value="Поиск самого длинного слова" />
+    <MESSAGE value="Форматирование таблицы умножения" />
+    <MESSAGE value="Линейное приближение с помощью функции наименьших квадратов" />
+    <MESSAGE value="Линейное приближение с помощью функции наименьших квадратов1" />
+    <MESSAGE value="Расчет работы инженеров" />
+    <MESSAGE value="Языки" />
+    <MESSAGE value="Статистические значения" />
+    <MESSAGE value="Анализ текстового файла" />
+    <MESSAGE value="Использование сторонних модулей" />
+    <option name="LAST_COMMIT_MESSAGE" value="Использование сторонних модулей" />
+>>>>>>> df9ab91783cf6b52b19689dba7d3c05b8f5e9df9
   </component>
 </project>
